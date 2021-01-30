@@ -71,7 +71,6 @@ h2{
 
 /* container */
 .container{
-    border: 2px solid red;
     color: #000000;
     display: flex;
     /* justify-content: center;
